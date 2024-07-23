@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋, Im Tiago
+welcome to my github, the place where I study and register my own projects 🧪
 <!--
 **tiagomazza/tiagomazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
