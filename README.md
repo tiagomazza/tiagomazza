@@ -1,4 +1,4 @@
-## Hi, there, Im Tiago Mazza👋🏾
+## Hi there, I'm Tiago Mazza👋🏾
 welcome to my github, the place where I study and register my own projects 🧪
 
 
