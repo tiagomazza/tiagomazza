@@ -1,5 +1,5 @@
 ## Hi there, I'm Tiago Mazza👋🏾
-welcome to my github, the place where I study and register my own projects 🧪
+Welcome to my github, the place where I study and register my own projects 👨🏽‍🔬
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagomazza&rank_icon=github&hide_border=true)
